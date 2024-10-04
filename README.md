@@ -2,7 +2,7 @@
 
 ## 🚀 **About Me**
 
-🎓 I’m **Monyea Logan**, a passionate software developer currently enrolled at **Western Governors University (WGU)**, where I’m pursuing a **Bachelor’s in Software Engineering**. I’m set to graduate by the end of **October 2024**, and along the way, I’ve earned certifications in both **Front-End** and **Back-End Development**. My journey into software development started unexpectedly when I stumbled across it, and soon I fell in love with the process of creating something from scratch. The thrill of turning ideas into functional applications drives me every day.
+🎓 I’m **Monyea Logan**, a passionate software developer currently enrolled at **Western Governors University (WGU)**, where I’m pursuing a **Bachelor’s in Software Engineering**. I’m set to graduate by the end of **November 2024**, and along the way, I’ve earned certifications in both **Front-End** and **Back-End Development**. My journey into software development started unexpectedly when I stumbled across it, and soon I fell in love with the process of creating something from scratch. The thrill of turning ideas into functional applications drives me every day.
 
 👨‍💻 With a deep interest in **open-source projects** and **app development**, I’ve built up solid experience working on various applications, both front-end and back-end. I enjoy collaborating with others, constantly learning, and pushing boundaries to develop innovative solutions. Currently, I’m diving deeper into **Java**, **C#**, and exploring more **React** and **Node.js** to enhance my skills.
 
